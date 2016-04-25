@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Node modules
+node_modules/
+
+# Temporary Emacs files
+*~
+
+# Library modules and generated files
+public/css/
+public/lib/
